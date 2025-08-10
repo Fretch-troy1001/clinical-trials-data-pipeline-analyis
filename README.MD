@@ -103,4 +103,4 @@ The final, weighted Opportunity Score model successfully filtered over 218,000 i
 
 ## Conclusion
 Ultimately, this project demonstrates a robust, data-driven methodology for moving beyond simple trial counts to a sophisticated strategic analysis, enabling R&D leadership to de-risk investment decisions and focus resources on areas with the highest potential for patient impact and commercial return.
-# Clinical Trials 
+
