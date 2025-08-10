@@ -1,6 +1,5 @@
 # Clinical Trial White Space & Opportunity Analysis
 
-## Video Demonstration
 ![Project Showcase](media/aact_pipeline&analysis.gif)  
 *5-minute walkthrough of the SQL pipeline and Power BI dashboard.*
 
